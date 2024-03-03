@@ -104,7 +104,7 @@
 
 <font size=2>
     
-    conda create -n torch python=3.8`
+    conda create -n torch python=3.8
     conda activate torch
     conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=10.2 -c pytorch
     
